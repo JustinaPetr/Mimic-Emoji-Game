@@ -11,7 +11,7 @@ Mimic Emoji is a game based on facial expression tracking using Affectiva. The g
 	- Download or clone the repository
 	- Launch the server using 
 	
-		**python serve.py**
+		python serve.py
 		
 	- Open your web browser and go to [https://localhost:4443/](https://localhost:4443/)
 	- Click the start button and start the game (you may be asked give a permission to access your camera)
